@@ -1,0 +1,111 @@
+@charset "utf-8"
+
+p {
+	margin: 0;
+}
+body{
+	font-family: 'Nexa Rust Sans Black', sans-serif;
+	font-weight: 700;
+	background: #ffffff;
+}
+article,nav { 
+	margin: 0; 
+	padding: 0; 
+}
+nav,ul,li,a {
+	padding-right: 10px;
+	display: inline;
+}
+}
+li {
+	display: inline;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	color: #ffffff;
+	font-size: 13pt;
+	text-decoration: none;
+	font-weight: 400;
+}
+a:hover {
+	color: #bc87f4;
+	font-size: 15.5pt;
+	text-decoration: none;
+	font-weight: 400;
+}
+#main-wrapper{
+	margin: 17px auto 0 auto;
+}
+#NavBar {
+	text-align: center;
+}
+#Bar {
+	height: 0px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+#DIFFERENCE {
+	color: #231f20;
+	font-size: 45.49px;
+	text-align: bottom left;
+}
+#BETWEEN {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: bottom-left;
+}
+#MEN {
+	color: #4259a7;
+	font-size: 28.24px;
+	text-align: bottom-left;
+}
+#AND {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: bottom-left;
+}
+#WOMEN {
+	color: #8e56a2;
+	font-size: 28.24px;
+	text-align: bottom-left;
+}
+#HOCKEY {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: bottom-left;
+}
+#top_page-01sec{
+	display: flex;
+	flex-direction: row;
+  	justify-content: center;
+  	padding-bottom: 30px;
+  	border-bottom: solid 1px #fff;
+	padding-bottom:0px;
+	margin-bottom: 0px;
+}
+#top_page-01 {
+	position: bottom;
+	width: 800px;
+	text-align: left;
+
+}
+img { 
+	background-position: middle;
+	background-repeat: no-repeat;
+	border: none; 
+	margin: 15px auto 0 auto;
+}	
+header{
+	height: 30px;
+	background: #231f20;
+}
+section#main-content{
+	background: #ebebef;
+	height: 470px;
+}
+footer{
+	background: #231f20;
+	height: 184px; 
+}

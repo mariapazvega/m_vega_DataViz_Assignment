@@ -1,0 +1,55 @@
+body{
+	background: #ffffff;
+}
+#main-wrapper{
+	margin: 17px auto 0 auto;
+}
+header{
+	height: 115px;
+	background: #231f20;
+}
+section#main-content{
+	background: #ebebef;
+	height: 470px;
+}
+#DIFFERENCE {
+	color: #231f20;
+	font-size: 45.49px;
+	text-align: left;
+}
+#BETWEEN {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: left;
+}
+#MEN {
+	color: #4259a7;
+	font-size: 28.24px;
+	text-align: left;
+}
+#AND {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: left;
+}
+#WOMEN {
+	color: #8e56a2;
+	font-size: 28.24px;
+	text-align: left;
+}
+#HOCKEY {
+	color: #231f20;
+	font-size: 28.24px;
+	text-align: left;
+}
+img { 
+	background-position: center;
+	background-repeat: no-repeat;
+	border: none; 
+	margin: 17px; 
+	padding: 0; 
+}
+footer{
+	background: #231f20;
+	height: 184px; 
+}
